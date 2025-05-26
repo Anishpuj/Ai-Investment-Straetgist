@@ -9,7 +9,7 @@ A multi-agent AI-powered financial analyst that generates **personalized investm
 
 Watch the full walkthrough of the **AI Investment Strategist** in action:
 
-[![Watch the Demo]https://www.dropbox.com/scl/fi/vvx8r8lr60drtltk1f7nm/Ai-Investment-Strategist.mp4?rlkey=5ychfsbw5nhq747mq1b3bpu1g&st=yqz9izvs&dl=0)
+[![Watch the Demo](https://www.dropbox.com/scl/fi/vvx8r8lr60drtltk1f7nm/Ai-Investment-Strategist.mp4?rlkey=5ychfsbw5nhq747mq1b3bpu1g&st=yqz9izvs&dl=0)
 
 > 📊 Real-time stock analysis • 🧠 Multi-agent decision making • 📈 Final investment report generation
 > 
