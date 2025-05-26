@@ -5,7 +5,14 @@ A multi-agent AI-powered financial analyst that generates **personalized investm
 ![Image](https://github.com/user-attachments/assets/fd3a2488-651c-447b-a720-b4878b7901a6)
 
 ---
+## 🎥 Demo
 
+Watch the full walkthrough of the **AI Investment Strategist** in action:
+
+[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+
+> 📊 Real-time stock analysis • 🧠 Multi-agent decision making • 📈 Final investment report generation
+> 
 ## 🚀 Features
 
 - 🔍 Real-time stock performance analysis (6-month trend)
