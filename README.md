@@ -2,7 +2,7 @@
 
 A multi-agent AI-powered financial analyst that generates **personalized investment reports** using real-time stock data, company insights, and market performance analysis. Built with Streamlit, Yahoo Finance API, Plotly, and Google Gemini via Agno AI.
 
-![AI Investment Strategist Banner](https://your-screenshot-or-banner-url.com/banner.png)
+![AI Investment Strategist Banner](diagram-export-5-26-2025-12_31_35-PM.png)
 
 ---
 
