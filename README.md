@@ -12,7 +12,7 @@ Watch the full walkthrough of the **AI Investment Strategist** in action:
 ![Click here to watch the Demo](https://www.dropbox.com/scl/fi/vvx8r8lr60drtltk1f7nm/Ai-Investment-Strategist.mp4?rlkey=5ychfsbw5nhq747mq1b3bpu1g&st=yqz9izvs&dl=0)
 
 > 📊 Real-time stock analysis • 🧠 Multi-agent decision making • 📈 Final investment report generation
-
+---
 ## 🚀 Features
 
 - 🔍 Real-time stock performance analysis (6-month trend)
